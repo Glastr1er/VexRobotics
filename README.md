@@ -1,2 +1,2 @@
 # VexRobotics
-Vex Robotics Competition Code 22271X
+Vex Robotics competition Code for team 22271X
